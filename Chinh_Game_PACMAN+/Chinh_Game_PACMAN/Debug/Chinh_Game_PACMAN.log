@@ -1,0 +1,20 @@
+﻿  Chinh_Game_PACMAN.cpp
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(142): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'Arrow'
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(455): warning C4309: '=': truncation of constant value
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(456): warning C4309: '=': truncation of constant value
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(457): warning C4309: '=': truncation of constant value
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(458): warning C4309: '=': truncation of constant value
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(459): warning C4309: '=': truncation of constant value
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(460): warning C4309: '=': truncation of constant value
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(461): warning C4309: '=': truncation of constant value
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(465): warning C4309: '=': truncation of constant value
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(466): warning C4309: '=': truncation of constant value
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(470): warning C4309: '=': truncation of constant value
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(471): warning C4309: '=': truncation of constant value
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(476): warning C4309: '=': truncation of constant value
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(479): warning C4309: '=': truncation of constant value
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(1289): warning C4101: 'chr': unreferenced local variable
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(857): warning C4715: 'ExitSelected': not all control paths return a value
+c:\users\darktran\desktop\chinh_game_pacman+\chinh_game_pacman\chinh_game_pacman.cpp(1405): warning C4715: 'checkSelect': not all control paths return a value
+  Chinh_Game_PACMAN.vcxproj -> C:\Users\darktran\Desktop\Chinh_Game_PACMAN+\Debug\Chinh_Game_PACMAN.exe
+  Chinh_Game_PACMAN.vcxproj -> C:\Users\darktran\Desktop\Chinh_Game_PACMAN+\Debug\Chinh_Game_PACMAN.pdb (Full PDB)
